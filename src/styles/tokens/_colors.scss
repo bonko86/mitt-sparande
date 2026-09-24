@@ -1,0 +1,27 @@
+:root {
+  // Primitive values: neutral placeholders, not a product palette.
+  --gray-50: #fafafa;
+  --gray-100: #f5f5f5;
+  --gray-300: #d4d4d4;
+  --gray-600: #525252;
+  --gray-800: #262626;
+  --gray-900: #171717;
+  --white: #ffffff;
+  --green-700: #15803d;
+  --amber-700: #b45309;
+  --red-700: #b91c1c;
+
+  // Semantic roles: components consume these.
+  --color-primary: var(--gray-800);
+  --color-primary-hover: var(--gray-900);
+  --color-on-primary: var(--white);
+  --color-background: var(--gray-50);
+  --color-surface: var(--white);
+  --color-border: var(--gray-300);
+  --color-text-primary: var(--gray-900);
+  --color-text-secondary: var(--gray-600);
+  --color-success: var(--green-700);
+  --color-warning: var(--amber-700);
+  --color-error: var(--red-700);
+  --color-focus: var(--gray-600);
+}

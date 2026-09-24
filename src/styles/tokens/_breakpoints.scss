@@ -1,0 +1,5 @@
+// Compile-time values: CSS custom properties cannot be used in media queries.
+// Import this module directly in component SCSS to avoid emitting global CSS.
+$sm: 40rem;
+$md: 48rem;
+$lg: 64rem;
