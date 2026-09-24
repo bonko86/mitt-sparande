@@ -1,0 +1,40 @@
+Title,Description,Type,Assignee
+Flytta pengar mellan mål,Som användare vill jag flytta sparade pengar mellan mål så att jag kan ändra hur mitt befintliga sparande är fördelat.,Story,bonko86
+Utökad låsning,Som användare vill jag kunna låsa ett helt mål eller pengar fram till ett visst datum så att jag kan bestämma hur strikt mitt sparande ska vara.,Story,bonko86
+Månads- och årshistorik,Som användare vill jag se mitt sparande sammanfattat per månad och år så att jag kan följa utvecklingen över längre tid.,Story,bonko86
+Visualisera sparutveckling,Som användare vill jag se grafer över mitt totala sparande och enskilda mål så att utvecklingen blir lättare att förstå.,Story,bonko86
+Sparrekord och sparsviter,Som användare vill jag se personliga rekord och sparsviter så att positiva sparvanor blir synliga.,Story,bonko86
+Visa tid vunnen,Som användare vill jag se hur mycket tidigare jag når ett mål tack vare extra sparande så att effekten av mina insättningar blir tydlig.,Story,bonko86
+Utökad sparkalkylator,Som användare vill jag simulera engångsinsättningar och olika sparbelopp så att jag kan jämföra scenarier utan att ändra min plan.,Story,bonko86
+Beräkna sparränta,Som användare vill jag inkludera ränta eller avkastning i prognoser så att långsiktigt sparande kan beräknas mer realistiskt.,Story,bonko86
+Inflationsjustera mål,Som användare vill jag kunna ta hänsyn till inflation så att långsiktiga mål bättre motsvarar framtida köpkraft.,Story,bonko86
+Nedräkning till mål,Som användare vill jag se hur lång tid som återstår till måldatumet så att jag snabbt förstår hur långt bort målet är.,Story,bonko86
+Uppmärksamma delmål,"Som användare vill jag få återkoppling när jag når viktiga delmål, exempelvis 25, 50 och 75 procent.",Story,bonko86
+Fira uppnått mål,Som användare vill jag få positiv visuell återkoppling när ett sparmål uppnås så att prestationen uppmärksammas.,Story,bonko86
+Lägg till målbild,Som användare vill jag lägga till en egen bild till ett mål så att det blir mer personligt och motiverande.,Story,bonko86
+Prioritera mål,Som användare vill jag ange vilka mål som är viktigast så att mitt sparande kan fokuseras på rätt saker.,Story,bonko86
+Pausa sparmål,Som användare vill jag pausa och återuppta ett mål utan att förlora dess historik.,Story,bonko86
+Arkivera sparmål,Som användare vill jag arkivera färdiga eller övergivna mål så att listan med aktiva mål förblir relevant.,Story,bonko86
+Flexibla sparmål,Som användare vill jag skapa mål utan ett fast slutbelopp så att jag exempelvis kan spara kontinuerligt till en buffert.,Story,bonko86
+Beräkna buffertmål,Som användare vill jag få hjälp att beräkna en lämplig buffert utifrån mina utgifter.,Story,bonko86
+Procentuell fördelning,Som användare vill jag ange hur stor andel av mitt sparande som ska gå till respektive mål.,Story,bonko86
+Återkommande sparande,Som användare vill jag registrera återkommande sparande så att regelbundna insättningar inte behöver läggas in manuellt.,Story,bonko86
+Spara på lönedagen,Som användare vill jag ange min lönedag och bli påmind om sparandet när lönen kommer.,Story,bonko86
+Påminn om sparande,Som användare vill jag bli påmind när ett planerat sparande saknas så att jag lättare kan följa min plan.,Story,bonko86
+Notiser för delmål,Som användare vill jag få en notis när jag når ett viktigt delmål även när appen är stängd.,Story,bonko86
+Sök i historiken,Som användare vill jag kunna söka och filtrera min sparhistorik så att jag snabbt kan hitta tidigare händelser.,Story,bonko86
+Senaste aktivitet,Som användare vill jag se mina senaste sparhändelser på startvyn så att jag snabbt kan kontrollera vad som har hänt.,Story,bonko86
+Året i sparande,"Som användare vill jag få en visuell sammanfattning av mitt sparår så att jag kan se utveckling, rekord och uppnådda mål.",Story,bonko86
+Visa uttagskonsekvens,Som användare vill jag se hur ett uttag påverkar progression och måldatum innan jag bekräftar det.,Story,bonko86
+Ange uttagsorsak,Som användare vill jag kunna ange varför pengar togs från ett mål så att uttaget får sammanhang i historiken.,Story,bonko86
+Registrera extrasparande,Som användare vill jag registrera sparande utöver min vanliga plan så att jag kan se vilken effekt det haft.,Story,bonko86
+Visa avslutade mål,Som användare vill jag se mina avslutade mål och hur mycket jag har sparat till dem så att tidigare prestationer finns kvar.,Story,bonko86
+Föreslå sparmål,Som användare vill jag få förslag på vanliga sparmål så att det går snabbare att komma igång.,Story,bonko86
+Guide för sparmål,Som användare vill jag få hjälp att välja ett rimligt målbelopp och måldatum så att min sparplan blir realistisk.,Story,bonko86
+Beräkna sparutrymme,Som användare vill jag ange hur mycket av min inkomst jag realistiskt kan spara så att rekommendationerna passar min ekonomi.,Story,bonko86
+Hoppa över sparmånad,Som användare vill jag kunna hoppa över en månad utan att behöva ändra hela min sparplan.,Story,bonko86
+Anpassa dashboard,Som användare vill jag välja vilken information som visas på startvyn så att den fokuserar på det som är viktigast för mig.,Story,bonko86
+Widget för sparmål,Som användare vill jag se progressionen för ett valt mål från telefonens hemskärm utan att öppna appen.,Story,bonko86
+Dark mode,Som användare vill jag använda appen i mörkt läge och kunna följa telefonens systeminställning.,Story,bonko86
+Offline-läge,Som användare vill jag kunna använda grundläggande sparfunktioner utan internetanslutning.,Story,bonko86
+Exportera sparhistorik,Som användare vill jag exportera min sparhistorik så att informationen kan användas eller säkerhetskopieras utanför appen.,Story,bonko86
